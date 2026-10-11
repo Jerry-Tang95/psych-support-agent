@@ -10,3 +10,6 @@ memory/signals.md
 memory/no_repeat.md
 memory/insights.md
 memory/sessions/
+
+# 本地常驻设置（含你的目录路径与用法边界），不该提交
+AGENTS.md
