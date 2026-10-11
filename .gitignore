@@ -1,0 +1,12 @@
+# 运行时缓存
+__pycache__/
+*.pyc
+
+# ↓ 这几条是整套包最重要的隐私防线：真实来访者数据永远不该进版本库 ↓
+instance.md
+memory/profile.md
+memory/threads.md
+memory/signals.md
+memory/no_repeat.md
+memory/insights.md
+memory/sessions/
